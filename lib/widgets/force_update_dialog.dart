@@ -27,8 +27,6 @@ class ForceUpdateDialog extends StatelessWidget {
       canPop: !isForceUpdate, // Prevent back navigation if forced
       child: Dialog(
         backgroundColor: Colors.transparent,
-        barrierDismissible:
-            !isForceUpdate, // Prevent tapping outside to close if forced
         child: Container(
           padding: const EdgeInsets.all(24),
           decoration: BoxDecoration(
