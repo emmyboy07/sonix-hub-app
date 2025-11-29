@@ -1,21 +1,19 @@
 {
-  "latest_version": "2.0.0",
+  "latest_version": "2.1.1",
   "min_required_version": "2.0.0",
-  "force_update": false,
+  "force_update": True,
   "title": "New Features Available!",
   "message": "Update to Sonix Hub v1.0.0 to enjoy:\n• Real-time genre display\n• Improved performance\n• Better UI/UX\n\nUpdate now to get the best experience!",
   "changelog": [
-      "💬 Integrated comment section for all movies and series",
-      "🐛 Bug fixes",
-      "⚡ Improved performance",
-      "🎬 Added Nollywood content",
-      "⬇️ Fixed download system"
+      " Bug fixes",
+      " Added music ",
+      "Fixed download system"
 
   ],
   "apk_download_url": "https://github.com/emmyboy07/sonix-hub-app/releases/download/apk/sonix-hub-v2-0-0.apk",
   "ios_app_store_url": "https://apps.apple.com/app/sonix-hub/id123456789",
   "release_notes_url": "https://github.com/emmyboy07/sonix-hub-app/releases/tag/v1.0.0",
   "release_date": "2025-11-29",
-  "critical_fix": true
+  "critical_fix": false
 }
 
