@@ -696,7 +696,7 @@ class _DownloadScreenState extends State<DownloadScreen> {
         final dir = Directory(movieDir);
         if (await dir.exists()) {
           // Prefer exact sanitized filename, fall back to any mp4 in dir
-          final exact = File('${dir.path}/${sanitizedTitle}.mp4');
+          final exact = File('${dir.path}/$sanitizedTitle.mp4');
           if (await exact.exists()) {
             videoPath = exact.path;
           } else {
@@ -745,7 +745,7 @@ class _DownloadScreenState extends State<DownloadScreen> {
                 2,
                 '0',
               );
-              final base = 'S${paddedSeason}E${paddedEpisode}';
+              final base = 'S${paddedSeason}E$paddedEpisode';
               final match = mp4s.firstWhere(
                 (f) =>
                     f.path.contains(base) ||
@@ -848,7 +848,7 @@ class _DownloadScreenState extends State<DownloadScreen> {
         final downloadsDir = await downloadManager.getAppDownloadDir();
         final dir = Directory('${downloadsDir.path}/movies/$sanitizedTitle');
         if (await dir.exists()) {
-          final exact = File('${dir.path}/${sanitizedTitle}.mp4');
+          final exact = File('${dir.path}/$sanitizedTitle.mp4');
           if (await exact.exists()) {
             videoPath = exact.path;
           } else {
@@ -896,7 +896,7 @@ class _DownloadScreenState extends State<DownloadScreen> {
                 2,
                 '0',
               );
-              final base = 'S${paddedSeason}E${paddedEpisode}';
+              final base = 'S${paddedSeason}E$paddedEpisode';
               final match = mp4s.firstWhere(
                 (f) =>
                     f.path.contains(base) ||

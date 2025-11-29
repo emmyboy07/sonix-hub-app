@@ -1,5 +1,3 @@
-import 'dart:convert';
-
 enum DownloadStatus { queued, downloading, paused, completed, failed }
 
 /// Represents a downloaded subtitle file

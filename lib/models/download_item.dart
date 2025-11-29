@@ -46,7 +46,7 @@ class DownloadItem {
     } else {
       final paddedEpisode = episodeNumber.toString().padLeft(2, '0');
       final paddedSeason = seasonNumber.toString().padLeft(2, '0');
-      return '$seriesName S${paddedSeason}E$paddedEpisode${quality != null && quality!.isNotEmpty ? ' (${quality})' : ''}';
+      return '$seriesName S${paddedSeason}E$paddedEpisode${quality != null && quality!.isNotEmpty ? ' ($quality)' : ''}';
     }
   }
 

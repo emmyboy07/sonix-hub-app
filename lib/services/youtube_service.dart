@@ -86,7 +86,7 @@ class YouTubeService {
       }
       if (streamMap.isEmpty) {
         final videoStream = manifest.videoOnly.withHighestBitrate();
-        if (videoStream != null) streamMap['best'] = videoStream.url.toString();
+        streamMap['best'] = videoStream.url.toString();
       }
       return streamMap;
     } catch (e) {

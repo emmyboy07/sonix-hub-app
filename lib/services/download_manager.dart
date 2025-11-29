@@ -538,7 +538,7 @@ class DownloadManager {
       }
 
       final videoFileName = qualityLabel != null
-          ? '${sanitizedTitle} (${qualityLabel}).mp4'
+          ? '$sanitizedTitle ($qualityLabel).mp4'
           : '$sanitizedTitle.mp4';
       final videoPath =
           '${movieDir.path}${Platform.pathSeparator}$videoFileName';
@@ -690,9 +690,9 @@ class DownloadManager {
       final paddedEpisode = episodeNumber.toString().padLeft(2, '0');
 
       final fileNameBase =
-          '${sanitizedSeriesName}_S${paddedSeason}E${paddedEpisode}';
+          '${sanitizedSeriesName}_S${paddedSeason}E$paddedEpisode';
       final videoFileName = qualityLabel != null
-          ? '$fileNameBase (${qualityLabel}).mp4'
+          ? '$fileNameBase ($qualityLabel).mp4'
           : '$fileNameBase.mp4';
       final videoPath =
           '${episodeDir.path}${Platform.pathSeparator}$videoFileName';
@@ -870,7 +870,7 @@ class DownloadManager {
 
       final paddedSeason = seasonNumber.toString().padLeft(2, '0');
       final paddedEpisode = episodeNumber.toString().padLeft(2, '0');
-      final baseName = 'S${paddedSeason}E${paddedEpisode}';
+      final baseName = 'S${paddedSeason}E$paddedEpisode';
 
       final match = mp4Files.firstWhere(
         (f) =>

@@ -159,8 +159,9 @@ class _HomeScreenState extends State<HomeScreen> {
             ),
           );
         }
-        if (!snapshot.hasData || snapshot.data!.isEmpty)
+        if (!snapshot.hasData || snapshot.data!.isEmpty) {
           return const SizedBox.shrink();
+        }
         final videos = snapshot.data!.take(10).toList();
         return SizedBox(
           height: 180,

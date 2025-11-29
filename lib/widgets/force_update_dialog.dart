@@ -110,7 +110,7 @@ class ForceUpdateDialog extends StatelessWidget {
                               ),
                             ),
                           );
-                        }).toList(),
+                        }),
                       ],
                     ),
                   ),
