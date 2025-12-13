@@ -9,7 +9,7 @@
 </p>
 
 
-[![Total Downloads](https://img.shields.io/github/downloads/emmyboy07/sonix-hub-app/total?style=for-the-badge&logo=android&logoColor=white&label=Downloads&color=3DDC84)](https://github.com/hzhefaz/hzflix/releases)
+[![Total Downloads](https://img.shields.io/github/downloads/emmyboy07/sonix-hub-app/total?style=for-the-badge&logo=android&logoColor=white&label=Downloads&color=3DDC84)](https://github.com/emmyboy07/sonix-hub-app/releases)
 
 
 ---
