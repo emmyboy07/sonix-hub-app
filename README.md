@@ -8,6 +8,9 @@
   Your all-in-one entertainment app for Android. Stream and download movies, TV shows, and music — completely free and ad-free!
 </p>
 
+
+https://img.shields.io/github/downloads/emmyboy07/sonix-hub-app/total?style=for-the-badge&logo=android&logoColor=white&label=Downloads&color=3DDC84
+
 ---
 
 ## 🌟 Features
