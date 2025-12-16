@@ -1,18 +1,19 @@
 {
-  "latest_version": "2.1.1",
-  "min_required_version": "2.1.1",
+  "latest_version": "2.1.6",
+  "min_required_version": "2.1.6",
   "force_update": true,
   "title": "New Features Available!",
-  "message": "Update to Sonix Hub v2.1.1 for optimal performance ",
+  "message": "Update to Sonix Hub v2.1.6 for optimal performance ",
   "changelog": [
       " Bug fixes",
-      " Added music ",
-      "Fixed download system"
+      " Added music and download ",
+      " Added nollywood and download",
+      "Fixed download system and more"
 
   ],
-  "apk_download_url": "https://github.com/emmyboy07/sonix-hub-app/releases/download/v2.1.1/app-release.apk",
+  "apk_download_url": "https://sonix-hub.wuaze.com/?i=1",
   "ios_app_store_url": "https://apps.apple.com/app/sonix-hub/id123456789",
-  "release_notes_url": "https://github.com/emmyboy07/sonix-hub-app/releases/tag/v1.0.0",
+  "release_notes_url": "https://github.com/emmyboy07/sonix-hub-app/releases/tag/v2.1.1",
   "release_date": "2025-11-29",
   "critical_fix": true
 }
