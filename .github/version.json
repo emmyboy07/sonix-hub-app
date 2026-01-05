@@ -5,16 +5,20 @@
   "title": "New Features Available!",
   "message": "Update to Sonix Hub v2.1.6 for optimal performance ",
   "changelog": [
-      " Bug fixes",
-      " Added music and download ",
-      " Added nollywood and download",
-      "Fixed download system and more"
+      "Fixed Download System",
+      " Spotify-like Music System",
+      " UI Update",
+      "Bug Fixes",
+      "Added Backup Download Server",
+      "Added Backup Streaming Server"
+    
 
   ],
-  "apk_download_url": "https://sonix-hub.wuaze.com/?i=1",
+  "apk_download_url": "https://github.com/emmyboy07/sonix-hub-app/releases/download/v3.0.0/app-release.apk",
   "ios_app_store_url": "https://apps.apple.com/app/sonix-hub/id123456789",
   "release_notes_url": "https://github.com/emmyboy07/sonix-hub-app/releases/tag/v2.1.1",
   "release_date": "2025-11-29",
   "critical_fix": true
 }
+Fixed Download System\r\nSpotify-like Music System\r\nUI Update\r\nBug Fixes\r\nAdded Backup Download Server\r\nAdded Backup Streaming Server
 
