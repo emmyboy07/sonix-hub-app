@@ -9,11 +9,11 @@
 </p>
 
 
-[![v3.1.7 Downloads](https://img.shields.io/github/downloads/emmyboy07/sonix-hub-app/v3.1.7/total?style=flat-square&logo=android&logoColor=white&label=v3.1.7%20Downloads&color=E53935&labelColor=1a1a1a)](https://github.com/emmyboy07/sonix-hub-app/releases/tag/v3.1.7)
+[![v3.1.7 Downloads](https://img.shields.io/github/downloads/emmyboy07/sonix-hub-app/v3.1.7/total?style=flat-square&logo=android&logoColor=white&label=v3.1.7%20Downloads&color=ff00005&labelColor=1a1a1a)](https://github.com/emmyboy07/sonix-hub-app/releases/tag/v3.1.7)
 
-[![Latest Release](https://img.shields.io/github/v/release/emmyboy07/sonix-hub-app?style=flat-square&logo=github&logoColor=white&label=Latest%20Version&color=E53935&labelColor=1a1a1a)](https://github.com/emmyboy07/sonix-hub-app/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/emmyboy07/sonix-hub-app?style=flat-square&logo=github&logoColor=white&label=Latest%20Version&color=ff0000&labelColor=1a1a1a)](https://github.com/emmyboy07/sonix-hub-app/releases/latest)
 
-[![Total Downloads](https://img.shields.io/github/downloads/emmyboy07/sonix-hub-app/total?style=flat-square&logo=android&logoColor=white&label=Total%20Downloads&color=E53935&labelColor=1a1a1a)](https://github.com/emmyboy07/sonix-hub-app/releases)
+[![Total Downloads](https://img.shields.io/github/downloads/emmyboy07/sonix-hub-app/total?style=flat-square&logo=android&logoColor=white&label=Total%20Downloads&color=ff0000&labelColor=1a1a1a)](https://github.com/emmyboy07/sonix-hub-app/releases)
 
 [![Platform](https://img.shields.io/badge/Platform-Android%205.0%2B-E53935?style=flat-square&logo=android&logoColor=white&labelColor=1a1a1a)](https://github.com/emmyboy07/sonix-hub-app/releases/latest)
 
