@@ -13,15 +13,21 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/emmyboy07/sonix-hub-app/releases/tag/v3.1.7">
+    <img src="https://img.shields.io/github/downloads/emmyboy07/sonix-hub-app/v3.1.7/total?style=for-the-badge&logo=android&logoColor=white&label=v3.1.7%20Downloads&color=ff0000&labelColor=1a1a1a" />
+  </a>
 
-[![v3.1.7 Downloads](https://img.shields.io/github/downloads/emmyboy07/sonix-hub-app/v3.1.7/total?style=for-the-badge&logo=android&logoColor=white&label=v3.1.7%20Downloads&color=ff0000&labelColor=1a1a1a)](https://github.com/emmyboy07/sonix-hub-app/releases/tag/v3.1.7)
+  <a href="https://github.com/emmyboy07/sonix-hub-app/releases/latest">
+    <img src="https://img.shields.io/github/v/release/emmyboy07/sonix-hub-app?style=for-the-badge&logo=github&logoColor=white&label=Latest%20Version&color=ff0000&labelColor=1a1a1a" />
+  </a>
 
-[![Latest Release](https://img.shields.io/github/v/release/emmyboy07/sonix-hub-app?style=for-the-badge&logo=github&logoColor=white&label=Latest%20Version&color=ff0000&labelColor=1a1a1a)](https://github.com/emmyboy07/sonix-hub-app/releases/latest)
+  <a href="https://github.com/emmyboy07/sonix-hub-app/releases">
+    <img src="https://img.shields.io/github/downloads/emmyboy07/sonix-hub-app/total?style=for-the-badge&logo=android&logoColor=white&label=Total%20Downloads&color=ff0000&labelColor=1a1a1a" />
+  </a>
 
-[![Total Downloads](https://img.shields.io/github/downloads/emmyboy07/sonix-hub-app/total?style=for-the-badge&logo=android&logoColor=white&label=Total%20Downloads&color=ff0000&labelColor=1a1a1a)](https://github.com/emmyboy07/sonix-hub-app/releases)
-
-[![Platform](https://img.shields.io/badge/Platform-Android%205.0%2B-ff0000?style=for-the-badge&logo=android&logoColor=white&labelColor=1a1a1a)](https://github.com/emmyboy07/sonix-hub-app/releases/latest)
-
+  <a href="https://github.com/emmyboy07/sonix-hub-app/releases/latest">
+    <img src="https://img.shields.io/badge/Platform-Android%205.0%2B-ff0000?style=for-the-badge&logo=android&logoColor=white&labelColor=1a1a1a" />
+  </a>
 </p>
 
 ---
@@ -30,7 +36,7 @@
 
 <p align="center">
   <a href="https://sonix-hub.vercel.app/download">
-    <img src="https://img.shields.io/badge/Download-Latest%20APK-ff0000?style=for-the-badge&logo=android&logoColor=white">
+    <img src="https://img.shields.io/badge/Download-Latest%20APK-ff0000?style=for-the-badge&logo=android&logoColor=white" />
   </a>
 </p>
 
@@ -98,6 +104,16 @@ If the in-app updater fails:
 
 ---
 
+# 🌍 Community
+
+<p align="center">
+  <a href="https://t.me/sonix_hub_community">
+    <img src="https://img.shields.io/badge/Join-Telegram%20Community-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+---
+
 # ⚠️ Notes
 - Android 5.0+ required
 - Stable internet recommended
@@ -109,9 +125,7 @@ If the in-app updater fails:
 
 Sonix Hub combines Movies, Music, Live TV, Sports, and Downloads into one powerful app — without ads or subscriptions.
 
-Simple.
-Fast.
-Free.
+Simple. Fast. Free.
 
 ---
 
@@ -120,6 +134,7 @@ Free.
 - 🌐 Website: https://sonix-hub.vercel.app
 - 📥 Download: https://sonix-hub.vercel.app/download
 - 🐙 GitHub: https://github.com/emmyboy07/sonix-hub-app
+- 💬 Telegram: https://t.me/sonix_hub_community
 
 ---
 
