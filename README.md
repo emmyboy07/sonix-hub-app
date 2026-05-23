@@ -9,7 +9,7 @@
 </p>
 
 
-[![v3.1.7 Downloads](https://img.shields.io/github/downloads/emmyboy07/sonix-hub-app/v3.1.7/total?style=flat-square&logo=android&logoColor=white&label=v3.1.7%20Downloads&color=ff00005&labelColor=1a1a1a)](https://github.com/emmyboy07/sonix-hub-app/releases/tag/v3.1.7)
+[![v3.1.7 Downloads](https://img.shields.io/github/downloads/emmyboy07/sonix-hub-app/v3.1.7/total?style=flat-square&logo=android&logoColor=white&label=v3.1.7%20Downloads&color=ff0000&labelColor=1a1a1a)](https://github.com/emmyboy07/sonix-hub-app/releases/tag/v3.1.7)
 
 [![Latest Release](https://img.shields.io/github/v/release/emmyboy07/sonix-hub-app?style=flat-square&logo=github&logoColor=white&label=Latest%20Version&color=ff0000&labelColor=1a1a1a)](https://github.com/emmyboy07/sonix-hub-app/releases/latest)
 
