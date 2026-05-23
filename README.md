@@ -108,7 +108,15 @@ If the in-app updater fails:
 
 <p align="center">
   <a href="https://t.me/sonix_hub_community">
-    <img src="https://img.shields.io/badge/Join-Telegram%20Community-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-Join%20Community-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <a href="https://chat.whatsapp.com/GmIorSgYJD7GzZUp1GhIgo">
+    <img src="https://img.shields.io/badge/WhatsApp-Join%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="https://discord.gg/B95K686K">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
