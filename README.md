@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/emmyboy07/sonix-hub-app/releases/tag/v3.1.9">
-    <img src="https://img.shields.io/github/downloads/emmyboy07/sonix-hub-app/v3.1.7/total?style=for-the-badge&logo=android&logoColor=white&label=v3.1.7%20Downloads&color=ff0000&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/github/downloads/emmyboy07/sonix-hub-app/v3.1.9/total?style=for-the-badge&logo=android&logoColor=white&label=v3.1.9%20Downloads&color=ff0000&labelColor=1a1a1a" />
   </a>
 
   <a href="https://github.com/emmyboy07/sonix-hub-app/releases/latest">
