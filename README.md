@@ -140,7 +140,7 @@ Simple. Fast. Free.
 # 🔗 Official Links
 
 - 🌐 Website: https://sonix-hub.vercel.app
-- 📥 Download: https://sonix-hub.vercel.app/download
+- 📥 Download: https://sonix-hub.net/download
 - 🐙 GitHub: https://github.com/emmyboy07/sonix-hub-app
 - 💬 Telegram: https://t.me/sonix_hub_community
 
