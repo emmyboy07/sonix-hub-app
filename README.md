@@ -13,19 +13,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/emmyboy07/sonix-hub-app/releases/tag/v3.2.0">
-    <img src="https://img.shields.io/github/downloads/emmyboy07/sonix-hub-app/v3.2.0/total?style=for-the-badge&logo=android&logoColor=white&label=v3.2.0%20Downloads&color=ff0000&labelColor=1a1a1a" />
+  <a href="https://github.com/emmyboy07/protv/releases/tag/v3.2.2">
+    <img src="https://img.shields.io/github/downloads/emmyboy07/protv/v3.2.2/total?style=for-the-badge&logo=android&logoColor=white&label=v3.2.2%20Downloads&color=ff0000&labelColor=1a1a1a" />
   </a>
 
-  <a href="https://github.com/emmyboy07/sonix-hub-app/releases/latest">
-    <img src="https://img.shields.io/github/v/release/emmyboy07/sonix-hub-app?style=for-the-badge&logo=github&logoColor=white&label=Latest%20Version&color=ff0000&labelColor=1a1a1a" />
+  <a href="https://github.com/emmyboy07/protv/releases/latest">
+    <img src="https://img.shields.io/github/v/release/emmyboy07/protv?style=for-the-badge&logo=github&logoColor=white&label=Latest%20Version&color=ff0000&labelColor=1a1a1a" />
   </a>
 
-  <a href="https://github.com/emmyboy07/sonix-hub-app/releases">
-    <img src="https://img.shields.io/github/downloads/emmyboy07/sonix-hub-app/total?style=for-the-badge&logo=android&logoColor=white&label=Total%20Downloads&color=ff0000&labelColor=1a1a1a" />
+  <a href="https://github.com/emmyboy07/protv/releases">
+    <img src="https://img.shields.io/github/downloads/emmyboy07/protv/total?style=for-the-badge&logo=android&logoColor=white&label=Total%20Downloads&color=ff0000&labelColor=1a1a1a" />
   </a>
 
-  <a href="https://github.com/emmyboy07/sonix-hub-app/releases/latest">
+  <a href="https://github.com/emmyboy07/protv/releases/latest">
     <img src="https://img.shields.io/badge/Platform-Android%205.0%2B-ff0000?style=for-the-badge&logo=android&logoColor=white&labelColor=1a1a1a" />
   </a>
 </p>
@@ -35,7 +35,7 @@
 ## 🚀 Download
 
 <p align="center">
-  <a href="https://sonix-hub.vercel.app/download">
+  <a href="https://sonix-hub.net/download">
     <img src="https://img.shields.io/badge/Download-Latest%20APK-ff0000?style=for-the-badge&logo=android&logoColor=white" />
   </a>
 </p>
@@ -45,30 +45,32 @@
 # ✨ Features
 
 ## 🎬 Entertainment
-- Movies & TV Shows
-- Anime Streaming
-- Nollywood Content
-- Live Sports
-- Live TV Channels
-- Music Streaming
-- Playlist Support
+
+* Movies & TV Shows
+* Anime Streaming
+* Nollywood Content
+* Live Sports
+* Live TV Channels
+* Music Streaming
+* Playlist Support
 
 ---
 
 ## ⚡ Powerful Experience
-- 100% Free
-- Completely Ad-Free
-- Fast Streaming Servers
-- Multiple Sources
-- Offline Downloads
-- High-Speed Downloads
-- Smart Search
-- Favorites & History
-- Modern UI
-- Dark Mode
-- In-App Updates
-- Organized Categories
-- Update Notifications
+
+* 100% Free
+* Completely Ad-Free
+* Fast Streaming Servers
+* Multiple Sources
+* Offline Downloads
+* High-Speed Downloads
+* Smart Search
+* Favorites & History
+* Modern UI
+* Dark Mode
+* In-App Updates
+* Organized Categories
+* Update Notifications
 
 ---
 
@@ -89,6 +91,7 @@
 # 📲 Installation Guide
 
 ## First Time Install
+
 1. Download the latest APK
 2. Open the APK file
 3. Allow "Install Unknown Apps" if prompted
@@ -97,7 +100,9 @@
 ---
 
 ## Updating Sonix Hub
+
 If the in-app updater fails:
+
 1. Download the latest APK manually
 2. Install the APK over the existing app
 3. Do not uninstall the previous version to keep your data
@@ -123,9 +128,10 @@ If the in-app updater fails:
 ---
 
 # ⚠️ Notes
-- Android 5.0+ required
-- Stable internet recommended
-- Enough storage needed for downloads
+
+* Android 5.0+ required
+* Stable internet recommended
+* Enough storage needed for downloads
 
 ---
 
@@ -133,16 +139,16 @@ If the in-app updater fails:
 
 Sonix Hub combines Movies, Music, Live TV, Sports, and Downloads into one powerful app — without ads or subscriptions.
 
-Simple. Fast. Free.
+**Simple. Fast. Free.**
 
 ---
 
 # 🔗 Official Links
 
-- 🌐 Website: https://sonix-hub.vercel.app
-- 📥 Download: https://sonix-hub.net/download
-- 🐙 GitHub: https://github.com/emmyboy07/sonix-hub-app
-- 💬 Telegram: https://t.me/sonix_hub_community
+* 🌐 Website: https://sonix-hub.vercel.app
+* 📥 Download: https://sonix-hub.net/download
+* 🐙 GitHub: https://github.com/emmyboy07/protv
+* 💬 Telegram: https://t.me/sonix_hub_community
 
 ---
 
