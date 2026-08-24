@@ -13,17 +13,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/emmyboy07/protv/releases/tag/v3.2.2">
-    <img src="https://img.shields.io/github/downloads/emmyboy07/protv/v3.2.2/total?style=for-the-badge&logo=android&logoColor=white&label=v3.2.2%20Downloads&color=ff0000&labelColor=1a1a1a" />
+  <a href="https://github.com/emmyboy07/sonix-hub-app/releases/tag/v3.2.2">
+    <img src="https://img.shields.io/github/downloads/emmyboy07/sonix-hub-app/v3.2.2/total?style=for-the-badge&logo=android&logoColor=white&label=v3.2.2%20Downloads&color=ff0000&labelColor=1a1a1a" />
   </a>
 
-  <a href="https://github.com/emmyboy07/protv/releases/latest">
-    <img src="https://img.shields.io/github/v/release/emmyboy07/protv?style=for-the-badge&logo=github&logoColor=white&label=Latest%20Version&color=ff0000&labelColor=1a1a1a" />
+  <a href="https://github.com/emmyboy07/sonix-hub-app/releases/latest">
+    <img src="https://img.shields.io/github/v/release/emmyboy07/sonix-hub-app?style=for-the-badge&logo=github&logoColor=white&label=Latest%20Version&color=ff0000&labelColor=1a1a1a" />
   </a>
 
-<a href="https://github.com/emmyboy07/protv/releases"> <img src="https://img.shields.io/github/downloads/emmyboy07/protv/total?style=for-the-badge&logo=android&logoColor=white&label=Total%20Downloads&color=ff0000&labelColor=1a1a1a" /> </a>
+<a href="https://github.com/emmyboy07/sonix-hub-app/releases"> <img src="https://img.shields.io/github/downloads/emmyboy07/sonix-hub-app/total?style=for-the-badge&logo=android&logoColor=white&label=Total%20Downloads&color=ff0000&labelColor=1a1a1a" /> </a>
 
-  <a href="https://github.com/emmyboy07/protv/releases/latest">
+  <a href="https://github.com/emmyboy07/sonix-hub-app/releases/latest">
     <img src="https://img.shields.io/badge/Platform-Android%205.0%2B-ff0000?style=for-the-badge&logo=android&logoColor=white&labelColor=1a1a1a" />
   </a>
 </p>
